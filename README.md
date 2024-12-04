@@ -1,12 +1,12 @@
-<h1> Olá < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Olá < Developers/ >!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
 
-<div size='20px'>  Olá 🖐🏻, sou Mariana Cardoso, uma dedicada estudante, apaixonada pela tecnologia e com foco em Desenvolvimento de Software no SENAI Valinhos</div>
+<div size='20px'>  Sou Mariana Cardoso, uma dedicada estudante, apaixonada pela tecnologia e com foco em Desenvolvimento de Software no SENAI Valinhos</div>
 <br>
 
-<h1> Sobre Mim </h1>
+# Sobre Mim
 
 <img width="53%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
