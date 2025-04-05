@@ -53,7 +53,7 @@
 <h2> Estátisticas GitHub 📊📉 </h2>
 <h3>Estatísticas do perfil</h3>
 
-![mariccardoso's Stats](https://github-readme-stats.vercel.app/api?username=mariccardoso&theme=omni&show_icons=true&hide_border=false&count_private=true)
+![mariccardoso's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariccardoso&theme=omni&hide_border=false)
 
 <h3>Streak de Contribuições</h3>
 
